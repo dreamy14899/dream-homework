@@ -1,6 +1,6 @@
 # dream-homework
 __1. สัตว์ที่ชอบ :__
- ![image] (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReBT5CGIGAzIlr6Imq_tR0vPLndExMC7oqBw&usqp=CAU.jpg) 
+ ![image] (https://www.kidjarak.com/wp-content/uploads/2019/01/germansheperd-02.jpg) 
 
 **2. งานอดิเรก :**
  * ดูหนัง 
